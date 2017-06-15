@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="background" type="Images" />
       <mapping ext="mp3" type="Native" />
+      <mapping ext="wav" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
